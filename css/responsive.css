@@ -1,0 +1,1656 @@
+@media only screen and (max-width: 1140px) {
+
+  /* banner */
+
+  .banner {
+    height: 598px;
+  }
+
+  .banner .content_img img {
+    height: fit-content;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .collection .container {
+    width: 1030px;
+  }
+
+  .collection .row .colle .about_colle {
+    width: 48.5%;
+  }
+
+  .collection .row .colle_img img {
+    height: auto;
+  }
+
+  .collection .row .colle .about_colle .colle_des {
+    /* height: 248px; */
+    height: auto;
+  }
+
+  .collection .row .colle .about_colle .colle_des p {
+    font-size: 24px;
+    margin-top: 80px;
+  }
+
+  .collection .row .colle .about_colle .colle_des h3 {
+    font-size: 23px;
+    font-weight: 500;
+  }
+
+
+  /* arrival */
+  .arrival .container {
+    width: 1030px;
+  }
+
+  .arrival .container .first_box {
+    width: 30%;
+  }
+
+  .arrival .container .second_box {
+    width: 39.5%;
+  }
+
+  .arrival .container .first_box2 {
+    width: 30%;
+  }
+
+  .arrival .container .jew .childbox .shop_btn {
+    top: 31px;
+    left: 18px;
+  }
+
+  /* Watch & shop */
+
+  .watch h2 {
+    font-size: 30px;
+    padding-bottom: 35px;
+  }
+
+  .watch .container {
+    width: 1030px;
+  }
+
+  .watch .shopcard {
+    height: 489px;
+    width: 32%;
+  }
+
+  .watch .shopcard .crad_img {
+    width: 90px;
+    height: 90px;
+    top: 211px;
+    left: 116px;
+  }
+
+  .watch .shopcard .shop_btnn {
+    width: 80%;
+    right: 29px;
+  }
+
+  /* personalized */
+  .personalized .container {
+    width: 1023px;
+  }
+
+  .personalized .row .personalized-box {
+    width: 46%;
+  }
+
+  .personalized .row .personalized_img img {
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .personalized .row .personalized_content p {
+    font-size: 15px;
+  }
+
+  .personalized h2 {
+    font-size: 29px;
+  }
+
+  /* carousel */
+
+  .carousel .testimonial .container {
+    width: 1030px;
+  }
+
+  .carousel .testimonial {
+    height: 465px;
+  }
+
+  .carousel .testimonial .title {
+    font-size: 38px;
+    margin-top: -25px;
+  }
+
+  .testimonial .testimonial_img {
+    bottom: 58px;
+    left: 180px;
+    width: 25%;
+  }
+
+  .testimonial .testimonial_img img {
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .testimonial .testimonial_content {
+    bottom: 67px;
+    right: 0px;
+    left: 459px;
+    width: 33%;
+  }
+
+  .testimonial .testimonial_content h2 {
+    font-size: 35px;
+  }
+
+  .testimonial .testimonial_content p {
+    font-size: 15px;
+  }
+
+  /* about */
+
+  .about .container {
+    width: 1030px;
+  }
+
+  /* .contact */
+
+  .contact {
+    height: 785px;
+  }
+
+  .contact .container {
+    width: 1030px;
+  }
+
+  .contact form {
+    height: 635px;
+  }
+
+  .contact form .inputname {
+    padding: 5px;
+  }
+
+  .contact form .inputemail {
+    padding: 5px;
+  }
+
+  textarea.form-control {
+    height: 90px;
+  }
+
+  /* footer */
+
+  footer .container {
+    width: 1030px;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+
+  /* banner */
+
+  .banner {
+    height: 510px;
+  }
+
+  .banner .container {
+    width: 780px;
+  }
+
+  .content h1 {
+    margin-top: 50%;
+    margin-bottom: 15px;
+    font-size: 27px;
+  }
+
+
+  /* collection */
+  .collection h2 {
+    font-size: 36px;
+    font-weight: 600;
+  }
+
+  .collection .container {
+    width: 780px;
+  }
+
+  .collection .row .colle .about_colle {
+    width: 48%;
+  }
+
+  .collection .row .colle .about_colle .colle_des p {
+    font-size: 21px;
+    margin-top: 65px;
+  }
+
+  .collection .row .colle .about_colle .colle_des h3 {
+    font-size: 20px;
+  }
+
+  /* arrival */
+
+  .arrival .container {
+    width: 780px;
+  }
+
+  .arrival .container .first_box {
+    width: 30%;
+  }
+
+  .arrival .container .second_box {
+    width: 39.5%;
+  }
+
+  .arrival .container .first_box2 {
+    width: 30%;
+  }
+
+  .arrival .container .jew .childbox .shop_btn {
+    width: 50px;
+    height: 21px;
+    padding-left: 8px;
+    padding-top: 0px;
+    top: 36px;
+    left: 22px;
+    font-size: 11px;
+  }
+
+  .watch h2 {
+    font-size: 30px;
+    padding-bottom: 40px;
+  }
+
+  .watch .container {
+    width: 780px;
+  }
+
+  .watch .shopcard {
+    height: 396px;
+    padding: 0;
+  }
+
+  .watch .shopcard .crad_img {
+    width: 75px;
+    height: 75px;
+    top: 168px;
+    left: 94px;
+  }
+
+  .watch .shopcard .shop_btnn {
+    right: 24px;
+  }
+
+  /* personalized */
+
+  .personalized .container {
+    width: 780px;
+  }
+
+  .personalized h2 {
+    font-size: 25px;
+  }
+
+  .personalized .row .personalized-box {
+    width: 50%;
+  }
+
+  .personalized .row .personalized_content {
+    margin-top: 30px;
+  }
+
+  .personalized .row .personalized_content p {
+    font-size: 17px;
+  }
+
+  /* carousel */
+
+  .carousel .testimonial .container {
+    width: 780px;
+  }
+
+  .carousel .testimonial {
+    height: 418px;
+  }
+
+  .carousel .testimonial .title {
+    font-size: 31px;
+  }
+
+  .testimonial .testimonial_img {
+    top: 100px;
+    left: 180px;
+    width: 24%;
+  }
+
+  .testimonial .testimonial_content {
+    bottom: 67px;
+    right: 0px;
+    left: 418px;
+    width: 33%;
+  }
+
+  .testimonial .testimonial_content h2 {
+    font-size: 28px;
+  }
+
+  .testimonial .testimonial_content p {
+    font-size: 14px;
+  }
+
+  /* about */
+
+  .about .container {
+    width: 780px;
+  }
+
+  .about .container .about_content {
+    width: 44%;
+  }
+
+  .about .about_content p {
+    font-size: 14px;
+    margin-bottom: 35px;
+  }
+
+  .about .about_content .about_btn {
+    width: 140px;
+  }
+
+  .about .about_img {
+    width: 50%;
+  }
+
+  .about .about_img img {
+    object-fit: cover;
+    object-position: center;
+  }
+
+  /* .contact */
+
+  .contact {
+    height: 785px;
+  }
+
+  .contact .container {
+    width: 780px;
+  }
+
+  .contact form {
+    height: 583px;
+  }
+
+  label {
+    font-size: 12px;
+  }
+
+  .contact form .inputname {
+    padding: 3px;
+    padding-left: 5px;
+    font-size: 12px;
+  }
+
+  .contact form .inputemail {
+    padding: 3px;
+    font-size: 12px;
+    padding-left: 10px;
+  }
+
+  .contact form .row .btn {
+    margin: 10px auto;
+    font-size: 15px;
+  }
+
+  /* footer */
+
+  footer .container {
+    width: 780px;
+  }
+
+  footer .footer_icon {
+    margin-left: 5px;
+  }
+
+  footer .footer_prat h2 {
+    font-size: 26px;
+  }
+
+  footer .footer_prat ul li a {
+    font-size: 15px;
+  }
+}
+
+@media only screen and (max-width: 769px) {
+
+   .humburger{
+    display: inline-block!important;
+  }
+
+  header .container .mix_nav {
+    position: absolute;
+    top: 119%;
+    /* left: 287px; */
+    left: -100%;
+    right: 0;
+    width: 252px;
+    background: #212529;
+    height: 350px;
+    text-align: center;
+    transition: all 0.5s;
+  }
+  
+  .navbar .mix_nav{
+    left: 0;
+  }
+
+  header .container .mix_nav  ul li a{
+    color: #F8F4ED!important;
+  }
+
+  header .container .mix_nav  ul{
+    display: block;
+  }
+
+  header .container .icon {
+    display: none;
+  }
+
+  /* banner */
+  .banner {
+    height: 365px;
+  }
+
+  .banner .container {
+    width: 780px;
+  }
+
+  .content h1 {
+    margin-top: 49%;
+    margin-bottom: 15px;
+    font-size: 19px;
+  }
+
+  .content p {
+    font-size: 13px;
+  }
+
+  .banner .content .btn {
+    width: 80px;
+    padding: 2;
+    height: 30px;
+    padding-top: 0.2%;
+  }
+
+  .banner .content .btn a {
+    font-size: 11px;
+  }
+
+  /* collection */
+
+  .collection .container {
+    width: 580px;
+  }
+
+  .collection .row .colle {
+    flex-wrap: wrap;
+    border-radius: 15px;
+    overflow: inherit;
+
+  }
+
+  .collection .row .colle .about_colle {
+    width: 100%;
+    margin: 8px auto;
+    border-radius: 8px;
+    box-shadow: 0px 10px 20px 0px rgba(120, 120, 120, 0.3);
+  }
+
+  .collection .row .colle .box-2,
+  .box-3 {
+    flex-flow: row-reverse;
+  }
+
+  .collection .row .colle .about_colle .colle_des p {
+    font-size: 28px;
+    margin-top: 100px;
+  }
+
+  .collection .row .colle .about_colle .colle_des h3 {
+    font-size: 28px;
+  }
+
+  /* arrival */
+
+  .arrival .container {
+    width: 580px;
+  }
+
+  .arrival h2 {
+    font-size: 25px;
+  }
+
+  .arrival .container .first_box {
+    width: 27.5%;
+    margin-top: 58px;
+  }
+
+  .arrival .container .jew .childbox {
+    margin: 18px 5px;
+  }
+
+  .arrival .container .second_box {
+    width: 44.5%;
+  }
+
+  .arrival .container .first_box2 {
+    width: 27.5%;
+    margin-top: 58px;
+  }
+
+  .arrival .container .jew .childbox .shop_btn {
+    width: 41px;
+    height: 21px;
+    padding-left: 8px;
+    padding-top: 0px;
+    top: 19px;
+    left: 7px;
+    font-size: 11px;
+  }
+
+  /*  watcbh % shop  */
+
+  .watch .shopcard {
+    height: 365px;
+  }
+
+  .watch h2 {
+    font-size: 26px;
+  }
+
+  .watch .shopcard .crad_img {
+    width: 60px;
+    height: 60px;
+    top: 152px;
+    left: 87px;
+  }
+
+  .watch .shopcard .shop_btnn {
+    right: 25px;
+    font-size: 14px;
+    height: 29px;
+    padding-top: 2px;
+    bottom: 10px;
+  }
+
+  /* personalized */
+
+  .personalized .container {
+    width: 580px;
+  }
+
+  .personalized .row .personalized-box {
+    width: 100%;
+  }
+
+  .personalized h2 {
+    font-size: 28px;
+  }
+
+  /* carousel */
+
+  .carousel .testimonial .container {
+    width: 580px;
+  }
+
+  .carousel .testimonial {
+    height: 315px;
+  }
+
+  .carousel .testimonial .title {
+    font-size: 25px;
+  }
+
+  .testimonial .testimonial_img {
+    top: 100px;
+    left: 100px;
+    width: 30%;
+  }
+
+  .testimonial .testimonial_content {
+    bottom: 39px;
+    right: 0px;
+    left: 318px;
+    width: 42%;
+  }
+
+  .testimonial .testimonial_content h2 {
+    font-size: 25px;
+  }
+
+  .testimonial .testimonial_content p {
+    font-size: 12px;
+  }
+
+  .carousel-indicators [data-bs-target] {
+    width: 6px;
+    height: 6px;
+    box-sizing: border-box;
+  }
+
+  /* about */
+
+  .about .container {
+    width: 580px;
+  }
+
+  .about .container .about_content {
+    width: 50%;
+  }
+
+  .about .about_content p {
+    font-size: 12px;
+    margin-bottom: 28px;
+  }
+
+  .about .about_img {
+    width: 50%;
+    height: 244px;
+    margin-top: 50px;
+  }
+
+  /* contact */
+
+  .contact {
+    height: 660px;
+  }
+
+  .contact .container {
+    width: 580px;
+  }
+
+  .contact form {
+    height: 505px;
+    padding: 40px;
+    width: 95%;
+  }
+
+  label {
+    font-size: 15px;
+  }
+
+  .contact form .inputname {
+    padding: 6px;
+    font-size: 13px;
+  }
+
+  .contact form .inputemail {
+    padding: 6px;
+    font-size: 13px;
+  }
+
+
+  .contact form .row .btn {
+    margin: 10px 36%;
+  }
+
+  /* footer */
+
+  footer .container {
+    width: 580px;
+  }
+
+  footer .footer_icon {
+    margin-left: 10px;
+  }
+
+  footer .container .footer_prat {
+    width: 37%;
+  }
+
+  footer .footer_prt .footer_logo {
+    width: 90%;
+  }
+
+  footer .footer_prat h2 {
+    font-size: 25px;
+  }
+
+  footer .footer_prat ul li a {
+    font-size: 15px;
+  }
+
+  footer .prt-4 {
+    margin-top: 30px;
+  }
+}
+
+@media only screen and (max-width: 578px) {
+
+  /* banner */
+
+  .banner {
+    height: 302px;
+  }
+
+  .banner .container {
+    width: 480px;
+  }
+
+  .banner .content h1 {
+    margin-top: 59px;
+    font-size: 15px;
+    font-weight: 500;
+  }
+
+  .banner .content p {
+    font-size: 9px;
+  }
+
+  .banner .content .btn {
+    width: 60px;
+    height: 22px;
+    padding-top: 3%;
+    font-size: 7px;
+    border-radius: 8px;
+  }
+
+  .banner .content .btn a {
+    font-size: 7px;
+  }
+
+  /*collection */
+
+  .collection .container {
+    width: 480px;
+  }
+
+  .collection h2 {
+    font-size: 30px;
+  }
+
+  .collection .row .colle .about_colle {
+    width: 88%;
+  }
+
+  .collection .row .colle .about_colle .colle_des p {
+    font-size: 24px;
+    margin-top: 78px;
+  }
+
+  .collection .row .colle .about_colle .colle_des h3 {
+    font-size: 23px;
+  }
+
+
+  /*  */
+  .arrival .container {
+    width: 480px;
+  }
+
+  .arrival h2 {
+    font-size: 22px;
+  }
+
+  .arrival .container .first_box {
+    width: 30%;
+    margin-top: 32px;
+  }
+
+  .arrival .container .jew .childbox {
+    margin: 10px 2px;
+  }
+
+  .arrival .container .second_box {
+    width: 39.5%;
+  }
+
+  .arrival .container .first_box2 {
+    width: 30%;
+    margin-top: 32px;
+  }
+
+  .arrival .container .jew .childbox .shop_btn {
+    width: 41px;
+    height: 21px;
+    padding-left: 8px;
+    padding-top: 0px;
+    top: 18px;
+    left: 7px;
+    font-size: 11px;
+  }
+
+  /* watch & shop */
+
+  .watch .container {
+    width: 480px;
+  }
+
+  .watch h2 {
+    font-size: 22px;
+  }
+
+  .watch .shopcard {
+    height: 247px;
+  }
+
+  .watch .shopcard .crad_img {
+    width: 45px;
+    height: 45px;
+    top: 100px;
+    left: 55px;
+  }
+
+  .watch .shopcard .shop_btnn {
+    right: 14.5px;
+    font-size: 14px;
+    height: 26px;
+    padding-top: 0px;
+  }
+
+  /* personalized */
+
+  .personalized .container {
+    width: 480px;
+  }
+
+  .personalized .row .personalized-box {
+    width: 100%;
+  }
+
+  .personalized h2 {
+    font-size: 26px;
+  }
+
+  .personalized .row .personalized_content p {
+    font-size: 16px;
+  }
+
+  /* carousel */
+
+  .carousel .testimonial .container {
+    width: 480px;
+  }
+
+  .carousel .testimonial {
+    height: 233px;
+  }
+
+  .carousel .testimonial .title {
+    font-size: 20px;
+    margin-top: -40px;
+  }
+
+  .testimonial .testimonial_img {
+    top: 61px;
+    left: 100px;
+    width: 27%;
+  }
+
+  .testimonial .testimonial_content {
+    bottom: 27px;
+    right: 0px;
+    left: 243px;
+    width: 41.5%;
+  }
+
+  .testimonial .testimonial_content h2 {
+    font-size: 22px;
+  }
+
+  .testimonial .testimonial_content p {
+    font-size: 10px;
+  }
+
+  .carousel-indicators [data-bs-target] {
+    width: 5px;
+    height: 5px;
+    box-sizing: border-box;
+  }
+
+  /* about */
+
+  .about .container {
+    width: 480px;
+  }
+
+  .about h2 {
+    padding-top: 20px;
+    font-size: 22px;
+    margin-bottom: 30px;
+  }
+
+  .about .container .about_content {
+    width: 50%;
+    padding: 0;
+  }
+
+  .about .about_content p {
+    font-size: 11px;
+  }
+
+  .about .about_img {
+    width: 46%;
+    height: 185px;
+    margin-top: 70px;
+    padding: 0;
+  }
+
+  .about .about_content .about_btn {
+    width: 120px;
+    font-size: 14px;
+  }
+
+  /* contact */
+
+  .contact {
+    height: 660px;
+  }
+
+  .contact .container {
+    width: 480px;
+  }
+
+  .contact form {
+    height: 505px;
+    padding: 40px;
+    width: 95%;
+  }
+
+  label {
+    font-size: 14px;
+  }
+
+  .contact form .inputname {
+    padding: 5px;
+    font-size: 12px;
+  }
+
+  .contact form .inputemail {
+    padding: 5px;
+    font-size: 12px;
+  }
+
+
+  .contact form .row .btn {
+    margin: 10px 33%;
+  }
+
+  /* footer */
+
+  footer .container {
+    width: 480px;
+  }
+
+  footer .footer_icon {
+    margin-left: 40px;
+  }
+
+  footer .footer_prt {
+    width: 50%;
+  }
+
+  footer .footer_prat {
+    width: 50%;
+  }
+
+  footer .footer_prat h2 {
+    font-size: 30px;
+  }
+
+  footer .footer_prat ul li a {
+    font-size: 18px;
+  }
+
+  footer .prt-3,
+  .prt-4 {
+    margin-top: 30px;
+  }
+}
+
+@media only screen and (max-width: 488px) {
+
+  /* banner */
+
+  .banner {
+    height: 278px;
+  }
+
+  .banner .container {
+    width: 100%;
+    padding: 0 10px;
+  }
+
+
+  .collection .container {
+    width: 100%;
+  }
+
+  .collection h2 {
+    font-size: 28px;
+  }
+
+  .collection .row .colle .about_colle {
+    width: 75%;
+  }
+
+  .collection .row .colle .about_colle .colle_des h3 {
+    font-size: 20px;
+  }
+
+  .collection .row .colle .about_colle .colle_des p {
+    font-size: 19px;
+    margin-top: 65px;
+  }
+
+  /* arrival */
+
+  .arrival .container {
+    width: 100%;
+  }
+
+  .arrival .container .row {
+    margin: 0 auto;
+  }
+
+  .arrival h2 {
+    font-size: 28px;
+    padding-bottom: 26px;
+  }
+
+  .arrival .container .first_box {
+    width: 78%;
+    margin: 0 auto;
+    padding: 0;
+    margin-bottom: 50px;
+  }
+
+  .arrival .container .second_box {
+    width: 98%;
+  }
+
+  .arrival .container .first_box2 {
+    width: 78%;
+    margin: 0 auto;
+    padding: 0;
+    margin-top: 50px;
+  }
+
+  .arrival .container .jew .childbox .shop_btn {
+    height: 40px;
+    width: 100px;
+    top: 60px;
+    left: 28.5px;
+    font-size: 21px;
+  }
+
+
+  /* watch & shop */
+
+  .watch .container {
+    width: 100%;
+    padding: 0 10px;
+  }
+
+  .watch h2 {
+    font-size: 24px;
+  }
+
+  .watch .container .row {
+    margin: 0 auto;
+  }
+
+  .watch .shopcard {
+    width: 90%;
+    height: 740px;
+    margin: 25px auto;
+  }
+
+  .watch .shopcard .crad_img {
+    left: 174px;
+    width: 85px;
+    height: 85px;
+    top: 352px;
+  }
+
+  .watch .shopcard .shop_btnn {
+    right: 0px;
+    left: 43px;
+  }
+
+  /* personalized */
+
+  .personalized .container {
+    width: 100%;
+  }
+
+  .personalized .container .row {
+    margin: 0 auto;
+  }
+
+  .personalized h2 {
+    font-size: 28px;
+  }
+
+  .personalized .row .personalized_content p {
+    font-size: 15px;
+    text-align: justify;
+  }
+
+  /* carousel */
+
+  .carousel .testimonial .container {
+    width: 100%;
+  }
+
+  .carousel .testimonial {
+    height: 800px;
+    background-position: center;
+  }
+
+  .carousel .testimonial .title {
+    font-size: 30px;
+    margin-top: -40px;
+  }
+
+  .testimonial .testimonial_img {
+    top: 80px;
+    left: 50px;
+    width: 80%;
+    height: 750px;
+  }
+
+  .testimonial .testimonial_img img {
+    height: fit-content;
+  }
+
+  .testimonial .testimonial_content {
+    bottom: 87px;
+    right: 0px;
+    left: 12px;
+    width: 88%;
+  }
+
+  .testimonial .testimonial_content h2 {
+    font-size: 30px;
+  }
+
+  .testimonial .testimonial_content p {
+    font-size: 15px;
+    text-align: justify;
+  }
+
+  .carousel-indicators [data-bs-target] {
+    width: 5px;
+    height: 5px;
+    box-sizing: border-box;
+  }
+
+  /* about */
+
+  .about {
+    margin: 0 auto;
+  }
+
+  .about .container {
+    width: 100%;
+    padding: 0 10px;
+  }
+
+  .about .container .row {
+    flex-wrap: wrap-reverse;
+  }
+
+  .about h2 {
+    padding-top: 20px;
+    font-size: 25px;
+    margin-bottom: 30px;
+  }
+
+  .about .container .about_content {
+    width: 90%;
+    padding: 0;
+    text-align: justify;
+    margin: 0 auto;
+  }
+
+  .about .about_content p {
+    font-size: 16px;
+  }
+
+  .about .about_img {
+    width: 90%;
+    margin: 0 auto;
+    height: fit-content;
+    margin-top: 30px;
+    padding: 0;
+    margin-bottom: 50px;
+  }
+
+  .about .about_content .about_btn {
+    width: 150px;
+    font-size: 16px;
+  }
+
+  /* contact */
+
+  .contact {
+    height: 660px;
+  }
+
+  .contact .container {
+    width: 100%;
+  }
+
+  .contact form {
+    height: 505px;
+    padding: 40px;
+    width: 85%;
+  }
+
+  label {
+    font-size: 13px;
+  }
+
+  .contact form .inputname {
+    padding: 4.5px;
+    font-size: 11px;
+  }
+
+  .contact form .inputemail {
+    padding: 4.5px;
+    font-size: 11px;
+  }
+
+
+  .contact form .row .btn {
+    margin: 10px 30%;
+  }
+
+  /* footer */
+
+  footer .container {
+    width: 100%;
+    padding: 0 10px;
+  }
+
+  footer .footer_icon {
+    margin-left: 40px;
+    margin: 0 37%;
+  }
+
+  footer .footer_prt .footer_logo {
+    width: 60%;
+    margin: 0 auto;
+  }
+
+  footer .footer_prt {
+    width: 100%;
+  }
+
+  footer .footer_prat {
+    width: 100%;
+  }
+
+  footer .footer_prat h2 {
+    font-size: 30px;
+  }
+
+  footer .footer_prat ul li a {
+    font-size: 18px;
+  }
+
+  footer .prt-3,
+  .prt-4 {
+    margin-top: 30px;
+  }
+}
+
+@media only screen and (max-width: 395px) {
+
+  /* banner */
+
+  .banner {
+    height: 215px;
+  }
+
+  .banner .container {
+    width: 100%;
+    padding: 0 10px;
+  }
+
+  .banner .container .content h1 {
+    margin-top: 31%;
+    font-size: 12px;
+    margin-bottom: 5px;
+  }
+
+  .collection .row .colle .about_colle {
+    width: 90%;
+  }
+
+  .collection h2 {
+    font-size: 24px;
+  }
+
+  /* arrival */
+
+  .arrival .container .jew .childbox .shop_btn {
+    left: 24%;
+    font-size: 19px;
+    height: 35px;
+    width: 77px;
+    top: 39%;
+  }
+
+  .watch .container {
+    width: 100%;
+
+  }
+
+  .watch .shopcard {
+    width: 90%;
+    margin: 25px auto;
+    height: 594px;
+  }
+
+  .watch .shopcard .crad_img {
+    width: 105px;
+    height: 105px;
+    top: 253px;
+    left: 135px;
+  }
+
+  .watch .shopcard .shop_btnn {
+    right: 31px;
+    font-size: 21px;
+    height: 36px;
+  }
+
+  /* personalized */
+
+
+  .personalized h2 {
+    font-size: 25px;
+  }
+
+  .personalized .row .personalized_content p {
+    font-size: 14px;
+  }
+
+  /* carousel */
+
+  .carousel .testimonial {
+    height: 800px;
+    background-position: center;
+  }
+
+  .carousel .testimonial .title {
+    font-size: 30px;
+    margin-top: -40px;
+  }
+
+  .testimonial .testimonial_img {
+    left: 43px;
+  }
+
+  /* about */
+
+  .about {
+    margin: 0 auto;
+  }
+
+  .about .container {
+    width: 100%;
+    padding: 0 10px;
+  }
+
+  .about .container .row {
+    flex-wrap: wrap-reverse;
+  }
+
+  .about h2 {
+    padding-top: 15px;
+    font-size: 23px;
+    margin-bottom: 25px;
+  }
+
+  .about .about_content p {
+    font-size: 15px;
+  }
+
+  .about .about_img {
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+
+  .about .about_content .about_btn {
+    width: 130px;
+    font-size: 15px;
+  }
+
+  /* contact */
+
+  .contact {
+    height: 660px;
+  }
+
+  .contact .container {
+    width: 100%;
+  }
+
+  .contact form {
+    height: 505px;
+    padding: 20px;
+    width: 85%;
+  }
+
+  label {
+    font-size: 12px;
+  }
+
+  .contact form .inputname {
+    padding: 4px;
+    font-size: 10px;
+  }
+
+  .contact form .inputemail {
+    padding: 4px;
+    font-size: 10px;
+  }
+
+
+  .contact form .row .btn {
+    margin: 10px 27.5%;
+  }
+
+  /* footer */
+  footer .footer_icon {
+    margin-left: 40px;
+    margin: 0 34%;
+  }
+
+  footer .footer_prt .footer_logo {
+    width: 60%;
+    margin: 0 auto;
+  }
+
+  footer .footer_prt {
+    width: 100%;
+  }
+
+  footer .footer_prat {
+    width: 100%;
+  }
+
+  footer .footer_prat h2 {
+    font-size: 27px;
+  }
+
+  footer .footer_prat ul li a {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (max-width: 300px) {
+
+  .collection h2 {
+    font-size: 21px;
+  }
+
+  .collection .row .colle .about_colle .colle_des h3 {
+    font-size: 13px;
+  }
+
+  .collection .row .colle .about_colle .colle_des p {
+    font-size: 15px;
+    margin-top: 42px;
+  }
+
+  /*  */
+  .arrival .container .jew .childbox .shop_btn {
+
+    left: 16px;
+    font-size: 17px;
+    height: 32px;
+    width: 75px;
+    top: 43px;
+    padding-left: 12px;
+  }
+
+  /* watch & shop */
+  .watch .shopcard {
+    height: 371px;
+    margin: 20px auto;
+  }
+
+  .watch .shopcard .crad_img {
+    width: 60px;
+    height: 60px;
+    top: 156px;
+    left: 95px;
+  }
+
+  /* personalized */
+
+  .personalized h2 {
+    font-size: 20px;
+  }
+
+  .personalized .row .personalized_content p {
+    font-size: 12px;
+  }
+
+  .carousel .testimonial {
+    height: 800px;
+    background-position: center;
+  }
+
+  .carousel .testimonial .title {
+    font-size: 30px;
+    margin-top: -40px;
+  }
+
+  .testimonial .testimonial_content {
+    bottom: 87px;
+    right: 0px;
+    left: 12px;
+    width: 88%;
+  }
+
+  .testimonial .testimonial_img {
+    top: 108px;
+    width: 90%;
+    left: 14px;
+  }
+
+  /* about */
+
+  .about h2 {
+    padding-top: 10px;
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+
+  .about .about_content p {
+    font-size: 14px;
+  }
+
+  .about .about_img {
+    margin-top: 10px;
+    margin-bottom: 35px;
+  }
+
+  .about .about_content .about_btn {
+    width: 120px;
+    font-size: 14px;
+  }
+
+  /* contact */
+  .contact {
+    height: 685px;
+  }
+
+
+  .contact form {
+    height: 535px;
+    padding: 30px 10px;
+    width: 85%;
+  }
+
+  label {
+    font-size: 12px;
+  }
+
+  .contact .container .row .input1 {
+    width: 100%;
+  }
+
+  .contact .container .row .input2 {
+    width: 100%;
+  }
+
+  .contact form .inputname {
+    padding: 4px;
+    font-size: 10px;
+  }
+
+  .contact form .inputemail {
+    padding: 4px;
+    font-size: 10px;
+  }
+
+  .contact form .row .btn {
+    margin: 10px 19.15%;
+  }
+
+  .radio {
+    margin-top: 10px;
+    margin-left: 5px;
+  }
+
+  /* footer */
+
+  footer .footer_icon {
+    margin-left: 40px;
+    margin: 0 27%;
+  }
+
+  footer .footer_prt .footer_logo {
+    width: 60%;
+    margin: 0 auto;
+  }
+
+  footer .footer_prat h2 {
+    font-size: 24px;
+  }
+
+  footer .footer_prat ul li a {
+    font-size: 15px;
+  }
+}
